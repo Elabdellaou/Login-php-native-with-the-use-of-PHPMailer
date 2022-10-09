@@ -1,0 +1,26 @@
+input[type='file'] {
+    display: none;
+}
+
+label#im {
+    color: white;
+    height: 60px;
+    width: 250px;
+    background-color: #a29bfe;
+    margin: auto;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Montserrat", sans-serif;
+}
+
+label#im:hover {
+    background-color: #6c5ce7;
+}
+
+.fa-solid.fa-arrow-right-from-bracket {
+    color: red;
+    margin-top: 3px;
+    margin-right: 5px;
+}
